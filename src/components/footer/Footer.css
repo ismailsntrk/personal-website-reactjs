@@ -1,0 +1,26 @@
+.footer-item{
+    margin-right: auto;
+    
+    margin-left: auto;
+    text-align: center;
+}
+#footer-con{
+    margin-bottom: 0px;
+}
+.social-icon{
+    font-size: 3vh;
+}
+.footer-div{
+    background-color: #edf2f4;
+}
+#i-icon-little{
+    margin-left: 22vw;
+    margin-right: 22vw;
+    margin-top: 2vh;
+    font-size: 4vh;
+    color: black;
+}
+
+.social{
+    margin-right: 5vw;
+}

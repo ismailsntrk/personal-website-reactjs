@@ -1,0 +1,45 @@
+.container {
+  min-width: 100vw;
+ 
+}
+
+#i-icon {
+  margin-left: 3vw;
+  margin-top: 5vh;
+  font-size: 6vh;
+}
+
+.social-navi {
+  margin-top: 5vh;
+  margin-bottom: 5vh;
+  font-size: 4vh;
+}
+
+.navbar-toggler {
+
+ width: fit-content;
+ margin-top: 2vh;
+  margin-left: 17vw;
+}
+
+.social-icon {
+  margin-left: 5vw;
+  color: black;
+}
+
+#i-icon-mobile {
+  font-size: 8vh;
+  margin-left: 5vw;
+  margin-top: 3vh;
+}
+
+.social-icon-mobile {
+  color: black;
+  font-size: 4vh;
+}
+
+#row-nav{
+  min-width: 60vw;
+
+
+}

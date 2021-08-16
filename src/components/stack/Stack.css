@@ -1,0 +1,95 @@
+.main-div {
+  min-width: 100vw;
+  height: auto;
+
+  background-color: #8d99ae;
+  text-align: center;
+}
+
+.mobile-div {
+  min-width: 100vw;
+  background: #eaf2f1;
+  text-align: center;
+}
+
+#graph-mobile {
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 80vw;
+}
+
+.mobile-div {
+  font-size: 4vh;
+  background: #8d99ae;
+}
+
+#p-row {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#prog-div {
+  min-width: 100vw;
+}
+
+.prog-bars {
+  
+  margin-top: 2vh;
+  max-width: 40vw;
+  min-height: 3vh;
+}
+
+.stack-bar {
+  margin-top: 2vh;
+  max-width: fit-content;
+  font-family: "Oswald", sans-serif;
+  text-align: end;
+}
+
+#prog-mobile-div {
+  max-width: 80vw;
+
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.prog-bars-mobile {
+  margin-top: 1vh;
+  max-width: 50vw;
+  margin-left: 18vw;
+}
+
+.stack-about-mobile {
+  margin: 5vh;
+  font-family: "Oswald", sans-serif;
+}
+
+#web-stack-about {
+  margin-top: 15vh;
+  font-family: "Oswald", sans-serif;
+}
+#stack-links {
+  font-family: "Oswald", sans-serif;
+  margin-left: 3vw;
+}
+
+#stack-links-mobile {
+  margin-top: 4vh;
+  font-family: "Oswald", sans-serif;
+  margin-left: 3vw;
+}
+
+.stack-bar-mobile {
+  margin-left: auto;
+  margin-right: auto;
+  font-family: "Oswald", sans-serif;
+  text-align: end;
+}
+
+
+@media (max-width: 600px) {
+
+  .prog-bars-mobile{
+    margin-left: 25vw;
+  }
+}

@@ -1,0 +1,62 @@
+.form-div{
+    min-width: 40vw;
+    max-width: 60vw;
+    margin-left: auto;
+ 
+    margin-right: auto;
+    text-align: center;
+margin-bottom: 0px;
+}
+
+#mail-form{
+    margin-top: 9vh;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#exampleEmail{
+    margin-left: 1vw;
+    width: 15vw;
+}
+
+#name{
+    margin-left: 2vw;
+    width: 15vw;
+}
+
+#submit-button{
+    margin-right: auto;
+    margin-bottom: 2vw;
+    margin-left: auto   ;
+}
+
+#exampleText{
+    margin-right: 0;
+    width: 32vw;
+    height: 20vh;
+}
+
+#mail-form-mobile{
+    max-width: 70vw;
+   margin-right: auto;
+   margin-top: 15vh;
+
+    margin-left: auto;
+    
+}
+
+#exampleEmail-mobile{
+    min-width: 70vw;
+}
+
+#exampleText-mobile{
+   min-height: 20vh;
+}
+#submit-button-mobile{
+    margin-right: auto;
+    margin-bottom: 2vw;
+    margin-left: 25vw   ;
+}
+.a-row{
+    margin-top: 0vh;
+}
